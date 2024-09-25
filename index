@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIBE Waiting List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">TR<span class="dot">:</span>BE</h1>
+        <p class="subtitle">A Censorship-Free, Ad-Free Platform,<br>
+        giving <span class="highlight">YOU</span> the ability to generate a passive Income for just <span class="highlight">$11 a month</span>.</p>
+        <p class="call-to-action">Want to know how?</p>
+        <a href="#" class="join-link">Join our waiting list.</a>
+
+        <form class="email-form">
+            <input type="email" placeholder="Email address..." class="email-input" required>
+            <button type="submit" class="join-button">JOIN</button>
+        </form>
+    </div>
+</body>
+</html>
